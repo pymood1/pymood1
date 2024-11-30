@@ -24,10 +24,10 @@
 
 ---
 
-## 🗣️ Languages
+## ⚙️ Languages
 
-### 🔧 Currently Using:
+### ⚡ Currently Using:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-### 🌱 Want to Learn:
+### 📚 Want to Learn:
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
