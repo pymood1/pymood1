@@ -1,4 +1,4 @@
-## Hello...
+## Hello... i'm a student and learning about `ai` 
 
 ![my WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pymood1)
 
