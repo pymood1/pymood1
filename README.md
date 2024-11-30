@@ -5,6 +5,7 @@
 # My Creations (I’m still learning, so my creations may not be flawless)
 > Discord bots (music func command, else func command)
 >> Music Bot ![Yamada Ryo](https://github.com/pymood1/Assets/raw/main/Nijika.png)(https://discord.com/oauth2/authorize?client_id=1297908060509044746&permissions=3147776&integration_type=0&scope=bot+applications.commands)
+>> 
 >> Trial Bot ![Ijichi Nijika](https://github.com/pymood1/Assets/raw/main/Ryo.png)(https://discord.com/oauth2/authorize?client_id=1300068046613778453&permissions=2048&integration_type=0&scope=bot+applications.commands)
 
 # IDE
