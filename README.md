@@ -8,13 +8,13 @@
 
 ### 🎵 **Music Bot(service not providing now)** 
 ![Yamada Ryo](https://github.com/pymood1/Assets/raw/main/Ryo.png)
-[Invite Music Bot](https://discord.com/oauth2/authorize?client_id=1297908060509044746&permissions=3147776&integration_type=0&scope=bot+applications.commands)
+[Invite Bot](https://discord.com/oauth2/authorize?client_id=1297908060509044746&permissions=3147776&integration_type=0&scope=bot+applications.commands)
 
 ---
 
 ### 🤖 **TTS + (etc) Bot**
 ![Ijichi Nijika](https://github.com/pymood1/Assets/raw/main/Nijika.png)
-[Invite Trial Bot](https://discord.com/oauth2/authorize?client_id=1300068046613778453&permissions=2048&integration_type=0&scope=bot+applications.commands)
+[Invite Bot](https://discord.com/oauth2/authorize?client_id=1300068046613778453&permissions=2048&integration_type=0&scope=bot+applications.commands)
 
 
 ## 🛠️ IDE
