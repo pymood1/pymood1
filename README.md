@@ -1,9 +1,5 @@
 ## 👋 Hello, I'm a student learning about `LLM`
 
-### 📝 WakaTime Stats
-![my WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pymood1)
-
-
 ## Discord Bots
 
 ### 🎵 **Music Bot(service not providing now)** 
