@@ -68,29 +68,18 @@
 개발 및 서비스 운영에 주로 사용하는 스택과 라이브러리입니다.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python 3" />
-  <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord Python Framework" />
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white" title="AI Model" />
-  <img src="https://img.shields.io/badge/yt_dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Audio Extraction" />
-  <img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Asynchronous I/O" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/yt_dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Github Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pymood1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=5865F2&title_color=5865F2" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pymood1&theme=tokyonight&hide_border=true&background=0D1117&ring=5865F2&fire=5865F2&currStreakLabel=5865F2" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pymood1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5865F2" alt="Top Languages" width="600" />
-</p>
-
-<br>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pymood1&color=5865F2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=150&section=footer" width="100%"/>
+  <br>
+  <i>"Building interactive experiences, one line of code at a time."</i>
 </div>
 
