@@ -1,5 +1,7 @@
 # I'm Discord Bot Developer.
 
+---
+
 ## 🎙️ **AI Chating Bot**
 현재 주력으로 관리 및 업데이트 중인 봇입니다.
 * [Invite Bot](https://discord.com/oauth2/authorize?client_id=1300068046613778453&permissions=8&integration_type=0&scope=bot)
