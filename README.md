@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/pymood1"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
@@ -54,7 +53,6 @@
       <div align="left">
         <ul>
           <li>🎶 <b>고음질 스트리밍:</b> 깔끔하고 끊김 없는 음악 재생</li>
-          <li>🎛️ <b>플레이리스트:</b> 간편하게 듣고 싶은 음악 관리</li>
         </ul>
       </div>
     </td>
