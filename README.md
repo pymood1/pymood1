@@ -15,7 +15,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <h4>🎙️ Nijika (AI Chat)</h4>
+      <h4>Nijika (AI Chat)</h4>
       <p><i>인공지능과 대화할 수 있는 스마트한 챗봇입니다.</i></p>
       <a href="https://discord.com/oauth2/authorize?client_id=1300068046613778453&permissions=8&integration_type=0&scope=bot">
         <img src="https://img.shields.io/badge/Invite_Nijika-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Nijika"/>
@@ -24,7 +24,7 @@
       <img src="https://github.com/pymood1/Assets/raw/main/Nijika.png" alt="Nijika" width="280" style="border-radius: 12px;"/>
     </td>
     <td align="center" width="50%">
-      <h4>🎵 Ryo (Music)</h4>
+      <h4>Ryo (Music)</h4>
       <p><i>고음질 음악을 함께 들을 수 있는 음악 전용 봇입니다.</i></p>
       <a href="https://discord.com/oauth2/authorize?client_id=1297908060509044746&permissions=8&integration_type=0&scope=bot">
         <img src="https://img.shields.io/badge/Invite_Ryo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite Ryo"/>
