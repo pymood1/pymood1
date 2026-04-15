@@ -5,7 +5,6 @@
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/pymood1"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
