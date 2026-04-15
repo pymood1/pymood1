@@ -3,11 +3,13 @@
 ## 🎙️ **AI Chating Bot**
 현재 주력으로 관리 및 업데이트 중인 봇입니다.
 * [Invite Bot](https://discord.com/oauth2/authorize?client_id=1300068046613778453&permissions=8&integration_type=0&scope=bot)
+
 ![Nijika](https://github.com/pymood1/Assets/raw/main/Nijika.png)
 
 ## 🎵 **Music Bot**
 음악 스트리밍 서비스 봇입니다.
 * [Invite Bot](https://discord.com/oauth2/authorize?client_id=1297908060509044746&permissions=8&integration_type=0&scope=bot)
+
 ![Ryo](https://github.com/pymood1/Assets/raw/main/Ryo.png)
 
 ---
