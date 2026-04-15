@@ -80,6 +80,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=150&section=footer" width="100%"/>
   <br>
-  <i>"Building interactive experiences, one line of code at a time."</i>
 </div>
-
