@@ -1,6 +1,4 @@
-### I'm Discord Bot Developer.
-
----
+# I'm Discord Bot Developer.
 
 ## 🎙️ **AI Chating Bot**
 현재 주력으로 관리 및 업데이트 중인 봇입니다.
